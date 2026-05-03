@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit 17c6537ed5abcd1c8a52061ab2f7c87f9bcd72f1
+> عيوني في الليل تناديك
+> وروحي دايما حواليك
+> لمسة إيدك تحييني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
