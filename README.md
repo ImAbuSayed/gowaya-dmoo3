@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/gowaya-dmoo3/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Gowaya Dmoo3](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License this song: Gowaya Dmoo3](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
