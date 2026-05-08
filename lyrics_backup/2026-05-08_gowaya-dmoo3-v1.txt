@@ -1,0 +1,174 @@
+Title: Gowaya Dmoo3
+Clean Hash: 772c86c5ca43e861a2983609396e10e0ebaa35e0e98cf4f9cba75f463589bc0b
+Raw Hash: 5736ce4e8198fae4ebbae75d761adee6036f39080ff05d1be224734661835051
+Date: 2026-05-08T21:22:41.627297
+Version: 1
+----------------------------------------
+[RAW LYRICS]
+Subproject commit 17c6537ed5abcd1c8a52061ab2f7c87f9bcd72f1
+[Hook (Arabic)]
+[Male] عيوني في الليل تناديك
+[Female] وروحي دايما حواليك
+[Male] لمسة إيدك تحييني
+[Female] ونظرة منك تكفيني
+
+[Hook (Hindi)]
+[Male] आँखों में तेरी खो जाऊं
+[Female] बाहों में तेरी सो जाऊं
+[Male] यह धड़कन बस तुझे पुकारे
+[Female] हम बन जाएँ एक सितारे
+
+[Hook (English)]
+[Male] I just want you by my side
+[Female] In your love I want to hide
+[Male] Feel the magic in the air
+[Female] We can go just anywhere
+
+[Verse 1 (Bangla)]
+[Male] তোমার চোখের এই ইশারা
+[Female] করে দিল আমায় দিশাহারা
+[Male] রাতের আকাশ জোছনা মাখা
+[Female] হৃদয়ে শুধু তোমার ছবি আঁকা
+
+[Pre-Chorus 1 (Hindi)]
+[Male] क्या है यह जादुगरी जो छाई है
+[Female] कैसी यह मदहोशी पास आई है
+[Male] हर साँस में तेरा ही नशा है
+[Female] दिल को तो बस तू ही भाया है
+
+[Chorus (Bangla)]
+[Male] তুমি আমার জীবনের তারা
+[Female] তোমায় ছাড়া আমি দিশাহারা
+[Male] কাছে এসো আরো কাছাকাছি
+[Female] তোমার জন্য আমি বেঁচে আছি
+
+[Verse 2 (Arabic)]
+[Male] نورك يضوي في ظلامي
+[Female] حبك نبضي واهتمامي
+[Male] قلبي يدق بس عشانك
+[Female] وروحي تسكن في مكانك
+
+[Pre-Chorus 2 (Punjabi)]
+[Male] ਅੱਖਾਂ ਵਿੱਚ ਨਸ਼ਾ ਤੇਰਾ ਛਾ ਗਿਆ
+[Female] ਦਿਲ ਮੇਰਾ ਤੇਰੇ ਉੱਤੇ ਆ ਗਿਆ
+[Male] ਹੁਣ ਤੇਰੀ ਲੋੜ ਮੈਨੂੰ ਪੈ ਗਈ
+[Female] ਜਿੰਦੜੀ ਇਹ ਤੇਰੇ ਨਾਲ ਬਹਿ ਗਈ
+
+[Chorus (Arabic)]
+[Male] في الغرام الشوق بيزيد
+[Female] ونبض قلبي لك يعيد
+[Male] معاك بنسى كل الهموم
+[Female] حبنا باقي طول اليوم
+
+[Verse 3 (Hindi)]
+[Male] मेरे ख्वाबों में तेरा ही राज है
+[Female] तू ही तो मेरी प्यारी आवाज़ है
+[Male] इस दिल की बस यही पुकार
+[Female] कर ले तू भी मुझसे इकरार
+
+[Pre-Chorus 3 (Arabic)]
+[Male] قلبي بينبض بالغرام
+[Female] وعيني مابتشوف المنام
+[Male] حبك الروح وحبك الحياة
+[Female] ولقاك هو طوق النجاة
+
+[Chorus (Bangla)]
+[Male] তুমি আমার জীবনের তারা
+[Female] তোমায় ছাড়া আমি দিশাহারা
+[Male] কাছে এসো আরো কাছাকাছি
+[Female] তোমার জন্য আমি বেঁচে আছি
+
+[Verse 4 (Punjabi)]
+[Male] ਤੇਰੀਆਂ ਅਦਾਵਾਂ ਮੈਨੂੰ ਮਾਰਦੀਆਂ
+[Female] ਗੱਲਾਂ ਤੇਰੀਆਂ ਵੀ ਦਿਲ ਠਾਰਦੀਆਂ
+[Male] ਸਾਹਾਂ ਵਿੱਚ ਮੇਰੇ ਹੁਣ ਸਮਾ ਜਾ
+[Female] ਪਿਆਰ ਦਾ ਇਹ ਜਾਦੂ ਚਲਾ ਜਾ
+
+[Bridge (English)]
+[Male] Come a little closer, feel the heat
+[Female] Moving to the rhythm of this beat
+[Male] Let the shadow take away the light
+[Female] Losing control in the middle of the night
+[Male] Say my name softly, Sayed tonight
+[Female] Everything we do is feeling right
+
+[Chorus (Hindi)]
+[Male] तुझसे ही तो मेरी यह दुनिया है
+[Female] तेरे बिना तो सब कुछ सूना है
+[Male] बाहों में भर लूँ मैं आज तुझे
+[Female] अपना बना ले तू आज मुझे
+
+[Outro (Arabic)]
+[Male] الليل طويل والقلب سهران
+[Female] الشوق بيكبر في كل مكان
+[Male] صوتك في وداني بيتردد
+[Female] وحبنا للأبد هيتجدد
+--------------------
+[CLEAN LYRICS]
+Subproject commit 17c6537ed5abcd1c8a52061ab2f7c87f9bcd72f1
+عيوني في الليل تناديك
+وروحي دايما حواليك
+لمسة إيدك تحييني
+ونظرة منك تكفيني
+आँखों में तेरी खो जाऊं
+बाहों में तेरी सो जाऊं
+यह धड़कन बस तुझे पुकारे
+हम बन जाएँ एक सितारे
+I just want you by my side
+In your love I want to hide
+Feel the magic in the air
+We can go just anywhere
+তোমার চোখের এই ইশারা
+করে দিল আমায় দিশাহারা
+রাতের আকাশ জোছনা মাখা
+হৃদয়ে শুধু তোমার ছবি আঁকা
+क्या है यह जादुगरी जो छाई है
+कैसी यह मदहोशी पास आई है
+हर साँस में तेरा ही नशा है
+दिल को तो बस तू ही भाया है
+তুমি আমার জীবনের তারা
+তোমায় ছাড়া আমি দিশাহারা
+কাছে এসো আরো কাছাকাছি
+তোমার জন্য আমি বেঁচে আছি
+نورك يضوي في ظلامي
+حبك نبضي واهتمامي
+قلبي يدق بس عشانك
+وروحي تسكن في مكانك
+ਅੱਖਾਂ ਵਿੱਚ ਨਸ਼ਾ ਤੇਰਾ ਛਾ ਗਿਆ
+ਦਿਲ ਮੇਰਾ ਤੇਰੇ ਉੱਤੇ ਆ ਗਿਆ
+ਹੁਣ ਤੇਰੀ ਲੋੜ ਮੈਨੂੰ ਪੈ ਗਈ
+ਜਿੰਦੜੀ ਇਹ ਤੇਰੇ ਨਾਲ ਬਹਿ ਗਈ
+في الغرام الشوق بيزيد
+ونبض قلبي لك يعيد
+معاك بنسى كل الهموم
+حبنا باقي طول اليوم
+मेरे ख्वाबों में तेरा ही राज है
+तू ही तो मेरी प्यारी आवाज़ है
+इस दिल की बस यही पुकार
+कर ले तू भी मुझसे इकरार
+قلبي بينبض بالغرام
+وعيني مابتشوف المنام
+حبك الروح وحبك الحياة
+ولقاك هو طوق النجاة
+তুমি আমার জীবনের তারা
+তোমায় ছাড়া আমি দিশাহারা
+কাছে এসো আরো কাছাকাছি
+তোমার জন্য আমি বেঁচে আছি
+ਤੇਰੀਆਂ ਅਦਾਵਾਂ ਮੈਨੂੰ ਮਾਰਦੀਆਂ
+ਗੱਲਾਂ ਤੇਰੀਆਂ ਵੀ ਦਿਲ ਠਾਰਦੀਆਂ
+ਸਾਹਾਂ ਵਿੱਚ ਮੇਰੇ ਹੁਣ ਸਮਾ ਜਾ
+ਪਿਆਰ ਦਾ ਇਹ ਜਾਦੂ ਚਲਾ ਜਾ
+Come a little closer, feel the heat
+Moving to the rhythm of this beat
+Let the shadow take away the light
+Losing control in the middle of the night
+Say my name softly, Sayed tonight
+Everything we do is feeling right
+तुझसे ही तो मेरी यह दुनिया है
+तेरे बिना तो सब कुछ सूना है
+बाहों में भर लूँ मैं आज तुझे
+अपना बना ले तू आज मुझे
+الليل طويل والقلب سهران
+الشوق بيكبر في كل مكان
+صوتك في وداني بيتردد
+وحبنا للأبد هيتجدد

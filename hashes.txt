@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Gowaya Dmoo3
+
+This log tracks the cryptographic history and versioning for the song **Gowaya Dmoo3** (gowaya-dmoo3).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T21:22:41.627297 | `v1` | `772c86c5ca43e861a2983609396e10e0ebaa35e0e98cf4f9cba75f463589bc0b` | `5736ce4e8198fae4ebbae75d761adee6036f39080ff05d1be224734661835051` | `2026-05-08_gowaya-dmoo3-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
